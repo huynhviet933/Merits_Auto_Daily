@@ -1,3 +1,6 @@
+
+Liên Hệ tôi qua Tele Hoặc Discor để nhận key thử tool 3day
+
 Hướng Dẫn 
 Bước 1 : Thêm Proxy vào file proxy.txt
 Bước 2 : Thêm user_agents từ file user_agents.txt ( không có thì dùng tool tạo user_agents tại github của tôi ) 
@@ -15,4 +18,5 @@ hỗ trợ Và tham khao Code các tool  dự án mà các bạn đề xuất
 
 Gửi Phí tháng vào đây và chụp hình gửi trực tiếp cho tôi tại discor để xác nhận Role VIp
 ☕ https://huynhviet933.github.io/donate_viet_mmo/ 
+
 Có thể tặng tôi ít cafe tại đây 
