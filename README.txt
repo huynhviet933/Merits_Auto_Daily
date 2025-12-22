@@ -1,5 +1,7 @@
 
-Liên Hệ tôi qua Tele Hoặc Discor để nhận key thử tool 3day
+Link Dự Án : https://t.me/HVchannelss/60
+
+Liên Hệ tôi qua Tele Hoặc Discor để nhận key thử tool 1day
 
 Hướng Dẫn 
 Bước 1 : Thêm Proxy vào file proxy.txt
@@ -20,3 +22,4 @@ Gửi Phí tháng vào đây và chụp hình gửi trực tiếp cho tôi tại
 ☕ https://huynhviet933.github.io/donate_viet_mmo/ 
 
 Có thể tặng tôi ít cafe tại đây 
+
