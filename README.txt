@@ -8,7 +8,7 @@ Bước 1 : Thêm Proxy vào file proxy.txt
 Bước 2 : Thêm user_agents từ file user_agents.txt ( không có thì dùng tool tạo user_agents tại github của tôi ) 
 Bước 3 : Thêm Privatekey Vào privatekey.txt 
 Bước 4 : Vào Cmd Nhập Lệnh npm install 
-Bước 5 : Lệnh chạy " Node main.js"
+Bước 5 : Lệnh chạy " Node full.js"
 
 Tham Gia NHóm tele : https://t.me/HVchannelss
 
@@ -22,5 +22,6 @@ Gửi Phí tháng vào đây và chụp hình gửi trực tiếp cho tôi tại
 ☕ https://huynhviet933.github.io/donate_viet_mmo/ 
 
 Có thể tặng tôi ít cafe tại đây 
+
 
 
